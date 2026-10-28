@@ -4,7 +4,7 @@ Tienda online real de decants y perfumes para Chile, en funcionamiento en **[ele
 La diseñé, desarrollé, desplegué y opero yo (Diego Miranda), desde abril de 2026.
 
 > El código fuente está en un repositorio privado porque es un negocio activo.
-> Este repo resume la arquitectura y las decisiones técnicas; puedo mostrar el código en una revisión técnica.
+> Este repo resume la arquitectura y las decisiones técnicas del proyecto.
 
 ## Visión general
 
